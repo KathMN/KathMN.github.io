@@ -68,7 +68,8 @@ padding:0px;
 
 }
     .navbar-brand img {
-        height:50px;
+        height:200px;
+		width:200px;
     }
 .navbar-default .navbar-toggle {
     border-color: #FFF;
